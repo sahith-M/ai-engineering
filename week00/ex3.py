@@ -10,4 +10,4 @@ elif hours_studied<target:
 else:
     print("Over the target" ,hours_studied) 
 
-# f""  to concatenate string and {int} ---- float:.2f to round the decimal
+# f""  to concatenate any value ---  string and {int} ---- float:.2f to round the decimal
